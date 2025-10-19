@@ -38,8 +38,10 @@ body {
     background-color: orange;
     border: none;
     color: white;
+    font-size: 13px;
+    font-weight: 600;
 }
 .button_section a {
     color: white;
-    font-size: 12px;
+    font-size: 13px;
 }
